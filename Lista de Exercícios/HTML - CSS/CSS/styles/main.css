@@ -1,0 +1,16 @@
+/*!
+Theme Name: Login Page
+Author: Jonatas Lopes
+Author URI: 
+Description: Tema: Login Page, desenvolvido por Jonatas Lopes
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+*/
+
+@import url(./default.css);
+@import url(./pages/login.css);
+@import url(./components/header.css);
+@import url(./components/footer.css);
+@import url(./components/form.css);
+
